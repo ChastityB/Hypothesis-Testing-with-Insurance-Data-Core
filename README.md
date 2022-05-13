@@ -1,5 +1,5 @@
 # Hypothesis-Testing-with-Insurance-Data-Core
-<p> This dataset was imported, cleaned, and visualized. The purpose of this is to help create hypothesis testing with insurance data. </p>
+<p> This dataset was imported and visualized. The purpose of this is to help create hypothesis testing with insurance data. </p>
 
 ## Do smokers have higher insurance charges than non-smokers?
 ![image](https://user-images.githubusercontent.com/97481574/168288305-d0d749b3-cc39-4fd3-a1dd-1949912840da.png)
